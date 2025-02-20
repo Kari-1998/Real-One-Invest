@@ -1,0 +1,9 @@
+Flask
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+psycopg2
+bcrypt
+python-dotenv
+twilio
+sendgrid
